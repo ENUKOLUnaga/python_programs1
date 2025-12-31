@@ -13,6 +13,6 @@ li= {
 }
 
 
-y=json.dumps(li)
+y=json.dumps(li,indent=4,sort_keys=True)
 print(y)
 print(type(y))
