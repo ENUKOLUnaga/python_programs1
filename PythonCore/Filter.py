@@ -1,0 +1,18 @@
+import math
+#s="This is a number {}".format(10)
+#print(s)
+#name=input("Enter your name: ")
+#place=input("Enter your place: ")
+#s="hi! {}, how is the weather in {}".format(name,place)
+#print(s)
+#s="{2}{0}{1}".format(10,20,30)
+#print(s)
+#s="{0:*>10}".format(486)
+#print(s)
+#s="{0:*^10}".format(486)
+#print(s)
+#s="{0:010.4f}".format(math.pi)
+#print(s)
+ew=1234500000000000000
+s="{0:.3e}".format(ew)
+print(s)
