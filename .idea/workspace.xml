@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c68dac-73e5-408e-9c8d-27057e4753aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyCharmMiscProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogicalProgramsSet1/MissingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalProgramsSet1/MissingNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogicalProgramsSet1/VerticalBars.py" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalProgramsSet1/VerticalBars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCore/Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCore/Filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" />
-    </list>
+    <list default="true" id="45c68dac-73e5-408e-9c8d-27057e4753aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,50 +35,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Abstraction.executor": "Run",
-    "Python.Atm.executor": "Run",
-    "Python.Conditional_statements.executor": "Run",
-    "Python.Datatypes.executor": "Run",
-    "Python.DuplicateValuesFromList.executor": "Run",
-    "Python.EBill.executor": "Run",
-    "Python.EcoRideMain.executor": "Run",
-    "Python.Encapsulation.executor": "Run",
-    "Python.Filter.executor": "Run",
-    "Python.Football.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.MissingNumber.executor": "Run",
-    "Python.OOP.executor": "Run",
-    "Python.Polymorphism.executor": "Run",
-    "Python.VerticalBars.executor": "Run",
-    "Python.decorator.executor": "Run",
-    "Python.script.executor": "Run",
-    "Python.script1.executor": "Run",
-    "Python.script2.executor": "Run",
-    "Python.script3.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/ENKOL/PyCharmMiscProject/LogicalProgramsSet1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditional_statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DuplicateValuesFromList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EBill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EcoRideMain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Football.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VerticalBars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ENKOL/PyCharmMiscProject/LogicalProgramsSet1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ENKOL\PyCharmMiscProject\LogicalProgramsSet1" />
@@ -129,6 +117,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="E:/projects/Eco-Ride" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -251,6 +242,7 @@
       <workItem from="1767439762549" duration="2486000" />
       <workItem from="1767588627245" duration="18141000" />
       <workItem from="1767681072900" duration="6452000" />
+      <workItem from="1767851867378" duration="592000" />
     </task>
     <servers />
   </component>

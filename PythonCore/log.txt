@@ -1,0 +1,4 @@
+INFO:root:Main() started
+INFO:root:Calling Even_sum() function
+INFO:root:execute Even_sum() function
+INFO:root: Even_sum() function return value
