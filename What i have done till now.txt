@@ -1,0 +1,26 @@
+What i have done till now
+ 
+->I started learning on file handling
+ r-read
+ w-write
+ a-append
+ x-create files
+->I learned methods 
+   tell()-for position
+   seek()-for move cursor
+->I learned how to read & Write binary data 
+ rb ,rb+ ,wb ,wb+ ,ab ,ab+
+->I explored Pickle module for datastructures
+   for dumping -- dump()
+   for loading -- load()
+->I started learning csv handling
+
+ 
+What i will do next:
+-> continue with project
+-> can i continue with file handling
+Till now:
+->i don't have any issues
+
+
+https://docs.google.com/document/d/1zuis_9tN-Qg85M4w-Wq6KoqDG3JERdK1pLe1E2sRcFs/edit?tab=t.0#heading=h.yr4ehuf83tpj
