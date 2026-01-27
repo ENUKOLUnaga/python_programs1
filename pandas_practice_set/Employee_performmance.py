@@ -7,7 +7,6 @@ def performmanceSystem(data):
     quarterly_avg=df.groupby(['department','quarter'])['performance_score'].mean().reset_index(name='avg_performance')
     print(quarterly_avg)
     #improving gradually 
-    print(quarterly_avg.columns)
     pivot=quarterly_avg.pivot(index='department',columns='quarter',values='avg_performance')
     pivot=pivot.reindex(columns=['Q1','Q2','Q3','Q4'])
     improving=pivot.dropna().loc[(pivot['Q1']<pivot['Q2'])&(pivot['Q2']<pivot['Q3'])&(pivot['Q3']<pivot['Q4'])]
